@@ -1,4 +1,4 @@
-## 💻 Software Engineer | Problem Solver | Mid Producer 🎹
+## 💻 Software Engineer | Problem Solver | Vim user (btw)
 
 Currently coding stuff at **vAudience** 🚀
 
@@ -12,5 +12,3 @@ Currently coding stuff at **vAudience** 🚀
 ![TypeScript](https://shields.io/badge/typescript-3178C6?logo=typescript&logoColor=FFF&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-
-⚡ Fun fact: When I'm not coding, you can find me producing pretty poor quality music.
