@@ -1,14 +1,44 @@
-## 💻 Software Engineer | Problem Solver | Vim user (btw)
+```
+╔══════════════════════════════════════════════════════════╗
+║              ~/lhorsl  ❯  whoami                         ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-Currently coding stuff at **vAudience** 🚀
+Hey! I'm **lhorsl** — open source enthusiast, keyboard nerd and tea drinking British dev :)
 
-### 🛠️ Tech Stack
+I love building things, sharing the journey and giving others company along the way. Currently hacking on AI pipelines with the incredible team at [@vaudience](https://github.com/vaudience).
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://shields.io/badge/typescript-3178C6?logo=typescript&logoColor=FFF&style=for-the-badge)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+---
+
+```
+╔══════════════════════════════════════════════════════════╗
+║              ~/lhorsl  ❯  cat current_projects.txt       ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+**Personal projects** — keeping these private while they're in early stages. MVPs incoming.
+
+**Content** — currently focused on making blog posts and videos about programming and cool tech.
+
+> *""You miss 100% of the shots you don’t take" - Wayne Gretzky - Michael Scott" - lhorsl*
+
+---
+
+```
+╔══════════════════════════════════════════════════════════╗
+║              ~/lhorsl  ❯  cat nerd_stuff.txt             ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+**Keyboards**
+- `[MAIN]` ZSA - Voyager
+- `[ALT]`  Lowfree - Flow82
+- `[DUST]` Keychron - K2 *(she's resting)*
+
+**Editor**
+- NeoVim
+
+**Fuel**
+- Tea. Always tea.
+
+---
